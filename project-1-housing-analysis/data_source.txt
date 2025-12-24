@@ -1,5 +1,2 @@
 Dataset Source:
-Kaggle – Housing Prices Dataset
-
-Description:
-Contains housing prices, location, size, and features.
+Kaggle – Movie Dataset Dataset
